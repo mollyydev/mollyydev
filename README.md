@@ -19,5 +19,11 @@
 
 
 <p align="center">
+  <h3>My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=mollyydev&theme=merko&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
+
+<p1>
+<h1>Links</h1>
+<img alt="Static Badge" src="https://img.shields.io/badge/My%20Website?style=social&link=https%3A%2F%2Fmollyyy.su">
+</p1>
