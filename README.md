@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=47A248">
     <img src="https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=009688">
     <img src="https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=003B57">
-    <img src="https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=181717">
+    <img src="https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=F05032">
   </div>
 </p>
 
@@ -25,5 +25,7 @@
 
 <p1>
 <h1>Links</h1>
-<img alt="Static Badge" src="https://img.shields.io/badge/My%20Website?style=social&link=https%3A%2F%2Fmollyyy.su">
+<a href="https://mollyyy.su"><img src="https://img.shields.io/badge/MY%20WEBSITE-50AF95?style=for-the-badge"></a>
+<h3>Support me (TRC20)</h3>
+<img src="https://img.shields.io/badge/TW5jGATB3ybvEUFVq5tMj1K7VvCZR3xWvx-090909?style=for-the-badge&logo=tether&logoColor=50AF95">
 </p1>
