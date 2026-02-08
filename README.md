@@ -25,8 +25,6 @@
 </p>
 
 <p1>
-<h1>Links</h1>
-<a href="https://mollyyy.su"><img src="https://img.shields.io/badge/MY%20WEBSITE-50AF95?style=for-the-badge"></a>
-<h3>Support me (TRC20)</h3>
-<img src="https://img.shields.io/badge/TW5jGATB3ybvEUFVq5tMj1K7VvCZR3xWvx-090909?style=for-the-badge&logo=tether&logoColor=50AF95">
+<h3>Support me (TON)</h3>
+<img src="https://img.shields.io/badge/mollyy-wallet.ton-090909?style=for-the-badge&logo=ton&logoColor=50AF95">
 </p1>
