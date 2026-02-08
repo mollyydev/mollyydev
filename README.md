@@ -26,5 +26,5 @@
 
 <p1>
 <h3>Support me (TON)</h3>
-<img src="https://img.shields.io/badge/mollyy-wallet.ton-090909?style=for-the-badge&logo=ton&logoColor=50AF95">
+<img src="https://img.shields.io/badge/UQB0EAKDhaQ2yYdi7hDSlw6LOrg6RrGtoLm7nJPVZO5TU3Hj-090909?style=for-the-badge&logo=ton&logoColor=50AF95">
 </p1>
